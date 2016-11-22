@@ -36,7 +36,7 @@ public class ApplicationWindow extends JFrame{
 	 * 
 	 */
 	public ApplicationWindow(){
-		super("Gameboys Present: TETRIS");
+		super("Gameboys Present: TETRIRIS");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		loadProperties();
 
